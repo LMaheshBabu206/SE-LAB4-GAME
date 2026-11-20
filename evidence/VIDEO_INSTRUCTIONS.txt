@@ -1,0 +1,7 @@
+Required videos (record locally; each must be about 10 seconds):
+
+1) before_changes.mp4 — use the untouched starter repository. Let the target shrink, then click a location outside the visible circle but still inside its original radius to demonstrate the false hit. Do not use the completed code for this clip.
+
+2) after_changes.mp4 — run the completed code. Demonstrate that the same late click is counted as a miss, show the Game Over screen, and demonstrate replay/difficulty selection. The README asks for a 10-second clip; prioritize showing the required behavior clearly.
+
+Save both files in this evidence/ directory. These videos must be recorded from a real run; they are intentionally not fabricated.
